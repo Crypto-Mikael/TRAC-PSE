@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  align-items: center;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  justify-content: space-between;
+  width: 100%;
+  background-color: rgba(30,58,138);
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.tractian-logo {
+  margin-top: .75rem;
+  margin-bottom: .75rem;
+  width: 12.5rem;
+  height: 2.5rem;
+};

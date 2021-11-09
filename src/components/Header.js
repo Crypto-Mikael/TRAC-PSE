@@ -1,10 +1,12 @@
 import React from 'react';
+import { LogoTractian } from '../images'
+import '../styles/Header.css';
 
 function Header() {
   return(
-    <>
-      <h2>Header</h2>
-    </>
+    <header>
+      <img className="tractian-logo" alt="Tractian Logo" src={ LogoTractian } />
+    </header>
   );
 }
 
